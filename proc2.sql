@@ -1,2 +1,1 @@
-#!/bin/bash
-@/proc1.sql
+@\proc1.sql
