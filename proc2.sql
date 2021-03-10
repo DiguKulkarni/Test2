@@ -1,2 +1,1 @@
-sqlplus D:\GithubRepo\Test2\proc1.sql
-/
+@D:\GithubRepo\Test2\proc1.sql
